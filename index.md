@@ -6,3 +6,6 @@
 ``` javascript
 var myVar = "Ello, world!";
 ```
+- [x] Eat breakfast
+- [x] Eat lunch
+- [ ] Eat supper
